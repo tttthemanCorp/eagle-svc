@@ -35,19 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="765" selection-end="765" vertical-scroll-proportion="0.5555556">
+            <state line="32" column="0" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="42" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+            <state line="3" column="3" selection-start="25" selection-end="25" vertical-scroll-proportion="0.052083332">
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
       </list>
     </option>
   </component>
@@ -282,16 +282,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+        <state line="32" column="0" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="765" selection-end="765" vertical-scroll-proportion="0.5555556">
+        <state line="3" column="3" selection-start="25" selection-end="25" vertical-scroll-proportion="0.052083332">
           <folding />
         </state>
       </provider>

@@ -3,8 +3,6 @@
  * GET home page.
  */
 
-var user = require('./user');
-
 var routingHandlers = {
     getAllUsers: function(req, res) {
         res.send("respond from getAllUsers");
