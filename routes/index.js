@@ -5,7 +5,14 @@
 
 var routingHandlers = {
     getAllUsers: function(req, res) {
-        res.send("respond from getAllUsers");
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        var output = {
+            name: 'Wanchun',
+            age: 60,
+            credits: 100
+        };
+        res.write(JSON.stringify(output));
+        res.end();
     },
     bulkUpdateUsers: function(newUsers) {
 
