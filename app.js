@@ -30,6 +30,7 @@ app.get('/user', routes.getAllUsers);
 app.post('/user', routes.createUser);
 app.put('/user', routes.bulkUpdateUsers);
 app.delete('user', routes.deleteAllUsers);
+
 app.get('/user/:id', routes.getUser);
 app.put('/user/:id', routes.updateUser);
 app.delete('/user/:id', routes.deleteUser);
